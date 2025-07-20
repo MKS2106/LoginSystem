@@ -14,7 +14,7 @@ app.use(express.json())
 app.use('/api/users', router)
 
 app.get('/', (req,res) => {
-    res.status(201).json("Login API");
+    res.status(201).json("Innovate Inc.");
 })
 
 app.listen(PORT, () => {
