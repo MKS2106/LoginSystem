@@ -33,7 +33,7 @@ This project provides a simple and secure user authentication system using **Nod
 - install jsonwebtoken (npm install jsonwebtoken)
 
 ### Steps to run 
-- Clone the repository (git clone https://github.com/yourusername/zenith-api.git)
+- Clone the repository 
 - Navigate to project directory(cd to directory)
 - Install dependencies npm init y 
 - Update pakage.json file as per requirement
